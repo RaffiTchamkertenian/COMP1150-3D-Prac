@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1920
     height: 997
   m_ShowMode: 4
-  m_Title: Game
+  m_Title: Project
   m_RootView: {fileID: 2}
   m_MinSize: {x: 875, y: 542}
   m_MaxSize: {x: 10000, y: 10000}
@@ -146,7 +146,7 @@ MonoBehaviour:
   m_MinSize: {x: 100, y: 200}
   m_MaxSize: {x: 8096, y: 16192}
   vertical: 1
-  controlID: 162
+  controlID: 153
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -171,7 +171,7 @@ MonoBehaviour:
   m_MinSize: {x: 100, y: 200}
   m_MaxSize: {x: 8096, y: 16192}
   vertical: 1
-  controlID: 153
+  controlID: 162
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -196,7 +196,7 @@ MonoBehaviour:
   m_MinSize: {x: 100, y: 200}
   m_MaxSize: {x: 8096, y: 16192}
   vertical: 1
-  controlID: 44
+  controlID: 102
 --- !u!114 &9
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -268,8 +268,8 @@ MonoBehaviour:
     y: 471
     width: 548
     height: 476
-  m_MinSize: {x: 201, y: 221}
-  m_MaxSize: {x: 4001, y: 4021}
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 18}
   m_Panes:
   - {fileID: 18}
@@ -503,9 +503,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 0cfbffff
-      m_LastClickedID: -1268
-      m_ExpandedIDs: 1cfbffff825d0000
+      m_SelectedIDs: 30f0ffff
+      m_LastClickedID: 0
+      m_ExpandedIDs: c4c3ffffeac8ffff1cfbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -754,9 +754,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -0.00000000910804, y: 0, z: 0.07640378}
+    m_Target: {x: -1.6491374, y: -0.7355618, z: -1.8628173}
     speed: 2
-    m_Value: {x: -0.00000000910804, y: 0, z: 0.07640378}
+    m_Value: {x: -1.6491374, y: -0.7355618, z: -1.8628173}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -1059,9 +1059,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 0.10203934, y: 1.2883236, z: 0.023839474}
+    m_Target: {x: 177.25668, y: 81.7879, z: 110.03594}
     speed: 2
-    m_Value: {x: 0.10203934, y: 1.2883236, z: 0.023839474}
+    m_Value: {x: 177.25668, y: 81.7879, z: 110.03594}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -1108,13 +1108,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: -0.24066219, y: 0.37553716, z: -0.1016361, w: -0.8892281}
+    m_Target: {x: -0.266605, y: -0.15046102, z: 0.04217959, w: -0.9510587}
     speed: 2
-    m_Value: {x: -0.24066184, y: 0.37553662, z: -0.10163595, w: -0.88922685}
+    m_Value: {x: -0.2665403, y: -0.15188678, z: 0.042579267, w: -0.9508279}
   m_Size:
-    m_Target: 3.8025136
+    m_Target: 137.05382
     speed: 2
-    m_Value: 3.8025136
+    m_Value: 131.15198
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -1364,9 +1364,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -0.08123387, y: 0, z: 0}
+    m_Target: {x: -0.041998383, y: 0.7062472, z: 0.03708586}
     speed: 2
-    m_Value: {x: -0.08123387, y: 0, z: 0}
+    m_Value: {x: -0.041998383, y: 0.7062472, z: 0.03708586}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -1526,38 +1526,38 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/StarterAssets
+    - Assets/iLearn Environment Kit
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/StarterAssets
+  - Assets/iLearn Environment Kit
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\Rafta\OneDrive\Desktop\Macquarie Uni\Year 3\COMP1150\Workshops\COMP1150-3D-Prac
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 525e0000
-    m_LastClickedID: 24146
-    m_ExpandedIDs: 00000000465e000000ca9a3bffffff7f
+    m_SelectedIDs: b2620000
+    m_LastClickedID: 25266
+    m_ExpandedIDs: 00000000465e0000ae620000b2620000fa62000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
-      m_Name: 
-      m_OriginalName: 
+      m_Name: iLearn Environment Kit
+      m_OriginalName: iLearn Environment Kit
       m_EditFieldRect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 0
         height: 0
-      m_UserData: 0
+      m_UserData: 25266
       m_IsWaitingForDelay: 0
       m_IsRenaming: 0
-      m_OriginalEventType: 11
+      m_OriginalEventType: 0
       m_IsRenamingFilename: 1
-      m_ClientGUIView: {fileID: 0}
+      m_ClientGUIView: {fileID: 15}
     m_SearchString: 
     m_CreateAssetUtility:
       m_EndAction: {fileID: 0}
@@ -1624,7 +1624,7 @@ MonoBehaviour:
     m_ScrollPosition: {x: 0, y: 0}
     m_GridSize: 64
   m_SkipHiddenPackages: 0
-  m_DirectoriesAreaWidth: 115
+  m_DirectoriesAreaWidth: 149
 --- !u!114 &23
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -1850,9 +1850,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -0.1678498, y: 0, z: 0.000000014673894}
+    m_Target: {x: -0.1678498, y: 0.042239107, z: 0.000000019709189}
     speed: 2
-    m_Value: {x: -0.1678498, y: 0, z: 0.000000014673894}
+    m_Value: {x: -0.1678498, y: 0.042238995, z: 0.000000019709177}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
